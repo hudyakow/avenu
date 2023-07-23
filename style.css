@@ -341,7 +341,7 @@ a svg, button svg {
     flex-basis: 85%;
 }
 .menu {
-    flex-basis: calc(100px + 11.5625vw);
+    flex-basis: calc(100px + 12.5625vw);
 }
 .main {
     display: flex;
